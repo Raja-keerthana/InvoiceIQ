@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+invoice_history.db
+invoice_history.backup.db
+*.log
+test_output.txt

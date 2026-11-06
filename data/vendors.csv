@@ -1,0 +1,11 @@
+vendor_id,vendor_name,approved_status,payment_terms
+V001,Sharma Office Supplies Pvt Ltd,APPROVED,Net 30
+V002,Bharat IT Solutions Pvt Ltd,APPROVED,Net 45
+V003,Kaveri Logistics & Freight Pvt Ltd,APPROVED,Net 15
+V004,Deccan Facility Services LLP,APPROVED,Net 30
+V005,Metro Print & Packaging Co,APPROVED,Net 30
+V006,Nilgiri Cloud Services Pvt Ltd,APPROVED,Net 45
+V007,Apex Stationers & Traders,UNAPPROVED,Net 30
+V008,Sunrise Marketing Agency,UNAPPROVED,Net 15
+V009,Vikram Industrial Equipment Pvt Ltd,APPROVED,Net 45
+V010,Orchid Catering Services,APPROVED,Net 15
